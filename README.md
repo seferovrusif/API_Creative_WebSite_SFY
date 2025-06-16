@@ -36,7 +36,7 @@ git clone link
 ```
 
 - Ensure you have Visual Studio and MSSQL installed.
-- Configure the `appsettings.json` with your local DB connection string.
+- Configure the `appsettings.json` with your local DB connection string (you can find backup file in this project).
 - Start the API and begin testing endpoints with Postman or Swagger.
 
 ## License
