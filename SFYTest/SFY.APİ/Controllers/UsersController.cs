@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SFY.Business.DTOs.AppUserDTOs;
 using SFY.Business.Services.Interfaces;
 

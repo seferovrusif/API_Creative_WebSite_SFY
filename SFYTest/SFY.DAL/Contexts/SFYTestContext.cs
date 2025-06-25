@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using SFY.Core.Entities;
 using SFY.Core.Entities.Common;
@@ -40,8 +39,6 @@ namespace SFY.DAL.Contexts
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
-        //    modelBuilder.Entity<IdentityUser>().Ignore(b => b.PhoneNumber)
-        //.Ignore(b => b.PhoneNumberConfirmed);
             base.OnModelCreating(modelBuilder);
         }
     }

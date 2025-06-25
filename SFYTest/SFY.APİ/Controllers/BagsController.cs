@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using SFY.Business.DTOs.BagDTOs;
-using SFY.Business.DTOs.SizeDTOs;
 using SFY.Business.Exceptions.Common;
 using SFY.Business.Services.Interfaces;
 using SFY.Core.Entities;
