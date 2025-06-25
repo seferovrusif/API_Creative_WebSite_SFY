@@ -19,8 +19,9 @@ This is currently a **work-in-progress** project and not fully completed yet. I'
 - ✅ **C# .NET 8 Web API**
 - ✅ **MSSQL Server**
 - ✅ **Entity Framework Core**
-- ✅ **Swagger (planned)**
+- ✅ **Swagger**
 - ✅ **JWT Authentication (planned)**
+- ✅ **Simple Front-End (planned)**
 
 ## Project Status
 
